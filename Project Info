@@ -1,0 +1,7 @@
+Steps involved
+1)Loads email dataset
+2)Prepares & cleans data
+3)Converts text into numerical features (TF-IDF)
+4)Trains a Logistic Regression model
+5)Evaluates accuracy
+6)Predicts if a new email is spam or not
